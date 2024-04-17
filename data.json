@@ -1,0 +1,14 @@
+{
+    "text_field": "example_text",
+    "numeric_field": 123,
+    "sub_objects": [
+      {
+        "sub_text_field": "sub_example_text_1",
+        "sub_numeric_field": 456
+      },
+      {
+        "sub_text_field": "sub_example_text_2",
+        "sub_numeric_field": 789
+      }
+    ]
+  }
